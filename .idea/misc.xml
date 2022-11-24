@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Lenovo/Documents/TES1/app/src/main/res/layout/activity_ali_kalora.xml" value="0.24358974358974358" />
+        <entry key="..\:/Users/Lenovo/Documents/TES1/app/src/main/res/layout/activity_ayambakar.xml" value="0.2484375" />
+        <entry key="..\:/Users/Lenovo/Documents/TES1/app/src/main/res/layout/activity_bahan.xml" value="0.24358974358974358" />
+        <entry key="..\:/Users/Lenovo/Documents/TES1/app/src/main/res/layout/activity_bahanbubur.xml" value="0.2" />
+        <entry key="..\:/Users/Lenovo/Documents/TES1/app/src/main/res/layout/activity_bahangado.xml" value="0.2484375" />
+        <entry key="..\:/Users/Lenovo/Documents/TES1/app/src/main/res/layout/activity_bahangeprek.xml" value="0.2484375" />
+        <entry key="..\:/Users/Lenovo/Documents/TES1/app/src/main/res/layout/activity_bahanmartabak.xml" value="0.2484375" />
+        <entry key="..\:/Users/Lenovo/Documents/TES1/app/src/main/res/layout/activity_buatbubur.xml" value="0.4" />
+        <entry key="..\:/Users/Lenovo/Documents/TES1/app/src/main/res/layout/activity_buatgado.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/Lenovo/Documents/TES1/app/src/main/res/layout/activity_buatgeprek.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/Lenovo/Documents/TES1/app/src/main/res/layout/activity_buatmartabak.xml" value="0.2484375" />
+        <entry key="..\:/Users/Lenovo/Documents/TES1/app/src/main/res/layout/activity_buburayam.xml" value="0.2484375" />
+        <entry key="..\:/Users/Lenovo/Documents/TES1/app/src/main/res/layout/activity_cara_buat.xml" value="0.23229166666666667" />
+        <entry key="..\:/Users/Lenovo/Documents/TES1/app/src/main/res/layout/activity_carabuat.xml" value="0.24358974358974358" />
+        <entry key="..\:/Users/Lenovo/Documents/TES1/app/src/main/res/layout/activity_gadogado.xml" value="0.2484375" />
+        <entry key="..\:/Users/Lenovo/Documents/TES1/app/src/main/res/layout/activity_geprek.xml" value="0.2484375" />
+        <entry key="..\:/Users/Lenovo/Documents/TES1/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/Lenovo/Documents/TES1/app/src/main/res/layout/activity_martabak.xml" value="0.2484375" />
+        <entry key="..\:/Users/Lenovo/Documents/TES1/app/src/main/res/layout/activity_pablo_escobar.xml" value="0.24358974358974358" />
+        <entry key="..\:/Users/Lenovo/Documents/TES1/app/src/main/res/layout/activity_santoso.xml" value="0.24358974358974358" />
+        <entry key="..\:/Users/Lenovo/Documents/TES1/app/src/main/res/layout/gambar.xml" value="0.24358974358974358" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

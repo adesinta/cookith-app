@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Cookith</string>
+    <string name="title">title</string>
+
+    <string name="nama_makanan">nama_makanan</string>
+    <array name="datapoto">
+        <item>@drawable/ayambakar</item>
+        <item>@drawable/buburayam</item>
+        <item>@drawable/gadogado</item>
+        <item>@drawable/geprek</item>
+        <item>@drawable/martabak</item>
+    </array>
+    <string-array name="data_name">
+        <item>Ayam Bakar</item>
+        <item>Bubur Ayam</item>
+        <item>Gado-gado</item>
+        <item>Ayam Geprek</item>
+        <item>Martabak</item>
+    </string-array>
+</resources>
